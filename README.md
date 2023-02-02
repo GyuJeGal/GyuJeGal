@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align=center>
-### 📚 Tech Stack 📚
+   ### 📚 Tech Stack 📚
   <div align=center>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
@@ -19,6 +19,7 @@
   ### 🛠 Tools 🛠
   <div align=center>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img src="https://img.shields.io/badge/Datagrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white">
     <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
   </div>
