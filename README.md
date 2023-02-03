@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm%20Gyu&fontSize=90" />
 
 <div align=center>
    
@@ -34,6 +34,8 @@
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   </div>  
 </div>
+
+
 
 ![GyuJeGal's github stats](https://github-readme-stats.vercel.app/api?username=GyuJeGal&show_icons=true)
 [![GyuJeGal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuJeGal&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/GyuJeGal)
