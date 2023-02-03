@@ -32,8 +32,10 @@
   <div align=center>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  </div>
-   
-![GyuJeGal's github stats](https://github-readme-stats.vercel.app/api?username=GyuJeGal&show_icons=true&theme=radical)   
-  
+  </div>  
 </div>
+
+![GyuJeGal's github stats](https://github-readme-stats.vercel.app/api?username=GyuJeGal&show_icons=true&theme=radical)
+[![GyuJeGal's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuJeGal&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/GyuJeGal)
+
+
