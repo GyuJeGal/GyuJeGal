@@ -2,8 +2,8 @@
 
 <div align=center>
 
-   ### More Information for me -> [Click Here](https://zinc-bream-19d.notion.site/JeGal-Gyu-9ca3d339c9db431d87f1ec6e2f093435?pvs=4)
-   ## 
+   ## More Information for me -> [Click Here](https://zinc-bream-19d.notion.site/JeGal-Gyu-9ca3d339c9db431d87f1ec6e2f093435?pvs=4)
+   
    
    ### 🖐 Introduction 🖐
    #### 무엇이든 시작하면 끝을 내는, "열정"이 준비된 개발자입니다.
